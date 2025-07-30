@@ -1,0 +1,46 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Linux
+*~
+
+# Log files
+*.log
+
+# JVM crash logs
+hs_err_pid*
+
+# Benchmark results
+*.jfr
+*.hprof
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.orig
