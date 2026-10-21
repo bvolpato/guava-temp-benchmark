@@ -4,7 +4,7 @@ A Java benchmarking project using JMH (Java Microbenchmark Harness) and Gradle.
 
 ## Prerequisites
 
-- Java 11 or higher
+- JDK 17 or higher to run Gradle 9.8.1. The benchmark code targets Java 11 and can run on Java 11.
 - Gradle (or use the included Gradle wrapper)
 
 ## Running Benchmarks
